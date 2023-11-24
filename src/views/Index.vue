@@ -172,7 +172,7 @@ onMounted(async () => {
 });
 
 /**
- * @discription: 侧边栏折叠
+ * @discription 侧边栏折叠
  */
 const toggleCollapse = () => {
     isCollapse.value = !isCollapse.value
